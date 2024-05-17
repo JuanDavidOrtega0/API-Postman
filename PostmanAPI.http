@@ -1,0 +1,6 @@
+@PostmanAPI_HostAddress = http://localhost:5253
+
+GET {{PostmanAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
